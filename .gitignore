@@ -20,12 +20,12 @@
 *.fff
 *.tex
 *.ttt
+Comments_PychSci_20231012.docx
 
 # R related 
 *.RData
 *.Rhistory
 *.Rproj.user/
-*.Rproj
 *.Rproj.user
 .Rproj.user
 
